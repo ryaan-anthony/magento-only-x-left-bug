@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <frontend>
+        <product>
+            <configurable>
+                <child>
+                    <attributes>
+                        <name />
+                    </attributes>
+                </child>
+            </configurable>
+        </product>
+    </frontend>
+</config>
